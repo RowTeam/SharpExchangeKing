@@ -51,7 +51,7 @@ PS：如果以上的**多个密码**是 NTLM 格式，则勾选 NTLM，不支持
 
 
 ## 0x03 加入加入
-加入加入！加入加入！
+加入加入！加入加入！解压密码：RowTeam
 ### 3.1 加入知识星球
 
 ![RowTeam.png](https://cdn.nlark.com/yuque/0/2023/png/22287830/1676642752168-40e91f41-9bdb-462f-bfa1-a774663179b3.png#averageHue=%23eeeed0&clientId=ue0a4f1d3-95f3-4&from=paste&height=412&id=Ej6eo&name=RowTeam.png&originHeight=412&originWidth=750&originalType=binary&ratio=1&rotation=0&showTitle=false&size=27878&status=done&style=none&taskId=u328a741f-81ea-41bc-99ca-f8a8c8d7db8&title=&width=750) 
