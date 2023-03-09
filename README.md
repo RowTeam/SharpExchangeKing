@@ -39,6 +39,8 @@ PS：如果以上的**多个密码**是 NTLM 格式，则勾选 NTLM，不支持
 
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/22287830/1675492521551-b5bfcf3b-a719-4223-be9a-53b6e953fdf9.png#averageHue=%23716f6e&clientId=u39e2b50c-3852-4&from=paste&height=592&id=u093dcc36&name=image.png&originHeight=592&originWidth=857&originalType=binary&ratio=1&rotation=0&showTitle=false&size=60909&status=done&style=none&taskId=u893ef663-fb08-44ef-b772-1c4e23b56e5&title=&width=857)
 
+![image](https://user-images.githubusercontent.com/16411168/223898771-75b00080-114d-414a-b6d3-34fffbe6df22.png)
+
 
 ## 0x02 未公开的版本
 
@@ -73,6 +75,9 @@ PS：如果以上的**多个密码**是 NTLM 格式，则勾选 NTLM，不支持
 ## 0x05 更新
 
 ```
+2023-03-09 v1.4.8
+	[u] 在密码爆破成功后，验证了是否存在邮箱账号
+
 2023-03-06 v1.4.3
 	[u] 修复上个版本将成功账号输出到 success.txt 文件的格式化问题
 	
