@@ -41,10 +41,13 @@ PS：如果以上的**多个密码**是 NTLM 格式，则勾选 NTLM，不支持
 
 ![image](https://user-images.githubusercontent.com/16411168/223898771-75b00080-114d-414a-b6d3-34fffbe6df22.png)
 
+### 1.3 邮箱用户名验证
+
+![image](https://user-images.githubusercontent.com/16411168/232277189-adfa4868-e41c-4467-a829-ad24f6388c84.png)
+
 
 ## 0x02 未公开的版本
 
-- 邮箱用户名验证：采用 SMTP 和 HTTP 响应最开始时间两种方法。
 - 邮件搜索：EWS 的 SOAP 操作。
 - 获取全局邮箱列表：EWS 的 SOAP 操作。
 - 设置当前邮箱收信箱转发：EWS 的 SOAP 操作。
@@ -52,8 +55,6 @@ PS：如果以上的**多个密码**是 NTLM 格式，则勾选 NTLM，不支持
 - 委派搜索：EWS 的 SOAP 操作。
 - 邮件收取：EWS 的 SOAP 操作。
 - 委派邮件收取：EWS 的 SOAP 操作。
-
-
 
 
 
