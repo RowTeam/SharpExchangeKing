@@ -5,10 +5,11 @@ Exchange 服务器安全的辅助测试工具
 ## 0x00 前言
 这是自编写了 SharpvCenterKing 之后的第三个 King 系列工具，命名为 SharpExchangeKing。
 
-关于 Exchange 的利用手段技术也是非常多的，因此该工具搬挪了 SharpvCenterKing 的大部分布局。总的来说， King 系列工具都长得差不多。当前公开的版本仅仅是包含了两个功能
+关于 Exchange 的利用手段技术也是非常多的，因此该工具搬挪了 SharpvCenterKing 的大部分布局。总的来说， King 系列工具都长得差不多。当前公开的版本仅仅是包含了三个功能
 
 1. Exchange 服务器的基本信息收集，不包括端口。
 2. 通过 EWS 接口进行密码爆破。
+3. 通过 3 种方法来确定邮箱是否存在
 
 建议使用 Windows 10 系统运行 SharpExchangeKing。
 ## 0x01 功能介绍
