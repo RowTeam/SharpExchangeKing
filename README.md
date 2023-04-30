@@ -26,7 +26,10 @@ Exchange 服务器安全的辅助测试工具
 
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/22287830/1676642007959-898b8638-3d29-44aa-afd2-b27bfa3c5d47.png#averageHue=%23444341&clientId=uc2c0e25b-b1ba-4&from=paste&height=610&id=u3fab67f0&name=image.png&originHeight=610&originWidth=866&originalType=binary&ratio=1&rotation=0&showTitle=false&size=64384&status=done&style=none&taskId=ud4fbb82b-625c-49e0-9b9c-5818fcb94f3&title=&width=866)
 
-### 1.2 密码爆破
+### 1.3 邮箱用户名验证
+![image](https://user-images.githubusercontent.com/16411168/232277189-adfa4868-e41c-4467-a829-ad24f6388c84.png)
+
+### 1.3 密码爆破
 
 使用线程池，最大默认 10。目前仅支持 EWS 接口的验证，且该接口支持 NLTM 验证。账号密码混杂组合支持 5 种模式：
 
@@ -41,10 +44,6 @@ PS：如果以上的**多个密码**是 NTLM 格式，则勾选 NTLM，不支持
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/22287830/1675492521551-b5bfcf3b-a719-4223-be9a-53b6e953fdf9.png#averageHue=%23716f6e&clientId=u39e2b50c-3852-4&from=paste&height=592&id=u093dcc36&name=image.png&originHeight=592&originWidth=857&originalType=binary&ratio=1&rotation=0&showTitle=false&size=60909&status=done&style=none&taskId=u893ef663-fb08-44ef-b772-1c4e23b56e5&title=&width=857)
 
 ![image](https://user-images.githubusercontent.com/16411168/223898771-75b00080-114d-414a-b6d3-34fffbe6df22.png)
-
-### 1.3 邮箱用户名验证
-
-![image](https://user-images.githubusercontent.com/16411168/232277189-adfa4868-e41c-4467-a829-ad24f6388c84.png)
 
 
 ## 0x02 未公开的版本
@@ -77,6 +76,8 @@ PS：如果以上的**多个密码**是 NTLM 格式，则勾选 NTLM，不支持
 
 
 ## 0x05 更新
+
+后续的具体更新，需要关注公众号获取、
 
 ```
 2023-03-27 v1.5.9
